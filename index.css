@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    transform: rotate(45deg);
+    margin: 150px;
+}
+.disc1{
+    width: 300px;
+    height: 300px;
+    border: 1px solid red;
+    background-color: red;
+    margin: 300px 0px 0px 300px;
+    border-radius: 100%;
+    float: left;
+}
+.disc2{
+    width: 300px;
+    height: 300px;
+    border: 1px solid red;
+    background-color: red;
+    margin: 160px 0px 0px 0px;
+    border-radius: 100%;
+    float: left;
+    position: relative;
+    right: 167px;
+}
+.square{
+    width: 300px;
+    height: 300px;
+    border: 1px solid red;
+    background-color: red;
+    margin: 300px 0px 0px 0px;
+    float: left;
+    position: relative;
+    right: 469px;
+}
+}
